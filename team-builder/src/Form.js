@@ -44,7 +44,7 @@ const From = props => {
                     </label>
                     <label>Password
                         <input 
-                        type='text'
+                        type='password'
                         name='password'
                         onChange={onChange}
                         value={values.password}

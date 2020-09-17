@@ -18,10 +18,10 @@ const initialValues = {
   name: '',
   email: '',
   password: '',
-  terms: null,
+  terms: false,
 }
 
- const initialDisabled = null
+ const initialDisabled = false
 
 function App() {
   // set state
